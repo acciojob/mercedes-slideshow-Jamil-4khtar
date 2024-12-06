@@ -4,11 +4,11 @@ function Slideshow() {
     const [index, setIndex] = useState(0)
 
     let images = [
-        "https://www.mercedes-benz.com/content/dam/brandhub/assets/art-and-culture/zeitgeist/collaboration-moncler/past-forward/media-gallery-1/10-2024/images/mercedes-benz-x-moncler-showcar-gallery-03-1440x1080-10-2024.jpg/_jcr_content/renditions/image-crop-default.jpeg/1730451419349.jpg?im=Resize=(1280);Crop,rect=(0,0,1280,960)",
+        "https://www.mercedes-benz.com/en/vehicles/mercedes-eq/eqs-suv/_jcr_content/root/verticalgallery_copy/parsys/verticalgalleryitem/image/MQ6-0-image-20220419101504/01-mercedes-benz-the-new-eqs-suv-x296-2021-1080x1350.jpeg",
         
-        "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/IN/254647/804/iris.webp?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZUnRZbMw3SGtlaWtsd2JQcUfpO6XGEuTRJ0l3CJOB2NznbApRnyI5ux5IQC31SrkzNwmbm7jA6ohKV5Kh%25vqCuqyLRgc6Yax%255SrH1yI6n8w0A2oiZB5lM4FAsuTg9LQ96PDaPpSeWHXUtsd8ZDcUfiXWXGE4JYJ0lgClOB2PzFbAp7oMIkb1ECQmIKM1kzNUTNm7jsGOhKVvKQ%25vqLUdyL0fsjko9wdYfHxKj1aRcYxqN8NmDmA9KLBZ59U2G1oQsvt&BKGND=9&IMGT=W27&cp=U7lLKRUtPa6KAFr8s_ubHw&uni=m&POV=BE320&uni=m",
+        "https://www.mercedes-benz.com/en/vehicles/mercedes-eq/eqs-suv/_jcr_content/root/verticalgallery_copy/parsys/verticalgalleryitem_546277676/image/MQ6-0-image-20220819111550/02-mercedes-benz-the-new-eqs-suv-x296-2021-1680x1680.jpeg",
 
-        "https://www.mercedes-benz.com/content/dam/brandhub/assets/art-and-culture/zeitgeist/collaboration-moncler/past-forward/media-gallery-1/10-2024/images/mercedes-benz-x-moncler-showcar-gallery-01-1440x1080-10-2024.jpg/_jcr_content/renditions/image-crop-default.jpeg/1730451400478.jpg?im=Resize=(1280);Crop,rect=(0,0,1280,960)"
+        "https://www.mercedes-benz.com/en/vehicles/mercedes-eq/eqs-suv/_jcr_content/root/verticalgallery_copy/parsys/verticalgalleryitem_354875624/image/MQ6-0-image-20220419101505/03-mercedes-benz-the-new-eqs-suv-x296-2021-1680x1680.jpeg"
 
     ];
 
